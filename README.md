@@ -53,7 +53,6 @@ Curso Técnico de Informática
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio27.py">Exercício-27 </a><br>
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio29.py">Exercício-29 </a><br>
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio30.py">Exercício-30 </a><br>
-
 &#x1F4C5; Dia: 26/08/2020 <br>
 &#x2705;<a href = "https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-02/blob/master/.vscode/exercicio03.py">Exercício-03 </a><br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-02/blob/master/.vscode/exercicio04.py" >Exercício-04 </a><br>
@@ -61,7 +60,6 @@ Curso Técnico de Informática
 &#x2705;<a href = "https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-02/blob/master/.vscode/exercicio06.py">Exercício-06 </a><br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-02/blob/master/.vscode/exercicio07.py" >Exercício-07 </a><br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-02/blob/master/.vscode/exercicio08.py" >Exercício-08 </a><br>
-
 &#x1F4C5; Dia: 09/08/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-04/blob/master/Exercicio01.py">
 Exercício-01 </a><br>
@@ -73,7 +71,6 @@ Exercício-03 </a><br>
 Exercício-04 </a><br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-04/blob/master/Exercicio05.py">
 Exercício-05 </a><br>
-
 &#x1F4C5; Dia: 16/09/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-03/blob/master/Exerc%C3%ADcio01.py">
 Exercício-01 </a><br>
@@ -85,7 +82,6 @@ Exercício-03 </a><br>
 Exercício-04 </a><br>
 &#x274E;<a href ="https://github.com/ViniciusDamiani/-infosatc-lp-avaliativo-03/blob/master/Exerc%C3%ADcio04.py">
 Exercício-04.2 </a><br>
-
 &#x1F4C5; Dia: 24/09/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-04/blob/master/Exerc%C3%ADcio01.py">
 Exercício-01 </a><br>
@@ -93,15 +89,12 @@ Exercício-01 </a><br>
 Exercício-02 </a><br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-04/blob/master/Exerc%C3%ADcio03.py">
 Exercício-03 </a><br>
-
 &#x1F4C5; Dia: 01/10/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-05/blob/main/Exerc%C3%ADcioPt01.py">
 Exercício-01 </a><br>
-
 &#x1F4C5; Dia: 02/11/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-05/blob/main/Exerc%C3%ADcioPt01.py">
 Exercício-01 </a><br>
-
 &#x1F4C5; Dia: 05/11/2020 <br>
 &#x2705;<a href ="https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-07/blob/main/Exerc%C3%ADcio01.py">
 Exercício-01 </a><br>
